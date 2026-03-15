@@ -68,3 +68,9 @@ Based on the analysis, the following business recommendations can be considered:
 - Provide category-based rewards for frequently used spending categories such as bills and entertainment.
 
 ## Dashboards Preview
+[![Dashboard](transactions_dashboard_images.png)]
+(transactions_dashboard_images.png)
+
+[![Dashboard](customer_dashboard_image.png)
+(customer_dashboard_image.png)
+
